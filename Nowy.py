@@ -13,5 +13,7 @@ def sortowanie_babelkowe(lista):
         if zamien == False: break
         
     return lista
+
+#Test edycji
         
 sortowanie_babelkowe([5,6,-1,0])

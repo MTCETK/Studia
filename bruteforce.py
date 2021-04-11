@@ -1,3 +1,6 @@
+# Nie wiem czego dotyczy ten program ale proszono mnie żeby dodać komentarz: 
+# "Ten program wygląda bardzo ładnie"
+
 szukana = ['A','A','B']
 tekst = []
 with open('palindromy.txt', 'r') as file:
